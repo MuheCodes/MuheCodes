@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Muhe!
 
-<!--
-**MuheCodes/MuheCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full-Stack Developer | Building the Future with Code
 
-Here are some ideas to get you started:
+💻 I love turning ideas into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- **Frontend:** React.js, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Programming:** Python
+- **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Learning
+
+- Advanced React Development
+- Professional Full-Stack Development
+- Python Programming
+
+### 🎯 My Goal
+
+To become a professional full-stack developer and build useful applications that solve real-world problems.
+
+### 🚀 Featured Project
+
+**[ShopEase Online Store](https://github.com/MuheCodes/shope-ease-online)**
+
+An e-commerce project built with PHP, MySQL, HTML, CSS, and JavaScript.
+
+### ⚡ My Motto
+
+**Build. Create. Innovate.**
+
+---
+
+⭐ Thanks for visiting my profile!
